@@ -1,0 +1,15 @@
+{
+  "name": "e-comm_apis",
+  "version": "1.0.0",
+  "description": "To create APIs for an E-Commerce application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Serin Elsa",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
